@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fahadyaradua01
-- 👀 I’m interested in learning new things everytime
+- 👀 I’m interested in learning new skills everytime
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on a project to develop a website
 
