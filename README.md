@@ -10,7 +10,4 @@ Availability: I am open to work or collaborate on projects that make a differenc
 
 Fun-fact: I watch K-Dramas, and love being a startup founder
 
-<!---
-fahadyaradua01/fahadyaradua01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Let's chat, I'm eager to make your acquaintance.
