@@ -15,45 +15,66 @@ Fun-fact: I watch K-Dramas, and love being a startup founder
 1. Programming Languages/Tools:
  Python
  SQL
- R Programming
- GPT-3
- HTML/CSS
-2. Cloud:
- AWS Certified Cloud Practitioner
+ HTML/CSS/javascript
+
 3. Data Analytics Tools:
  Microsoft Excel
  Eviews
  SPSS
-4. Data Visualization Tools:
+
+5. Data Visualization Tools:
  Tableau
  Power BI
-5. Project Management Tools:
- Microsoft Projects
- Github
- Trello
- Slack
- Asana
- Notion
- Microsoft Teams
- Comet
+
+8. Education:
+  Data  Analytics Internship - Lumilab Innovation Hub
+  Introducion to Data Analysis - Level up Katisna Digital Skills Program
+  Networking Fundamentals 2022
+  Senior Secondary School Certificate (SSCE) 
+  Basic Education Certificate Examination (BECE) 
 
 
+Company 
 
-7. Education:
- Data Science Accelerator Programme - ExploreAI Academy
- MSc. Engineering Management - ABU Zaria
- BEng. Electrical Engineering - ABU Zaria
- International Advanced Diploma in Computing - Informatics Academy
+Job Title 
 
+Sector 
 
-9. Work Experience:
-Company	Job Title	Sector	Duration
-Mentalyc Inc.	Analyst/Engineer	Mental Health, AI	Jan 2023 - Present
-ExploreAI	Intern	Consultancy, IT	Feb 2023 - Present
-BluHolding Ltd	Technical Assistant	Construction, Energy, IT	Sep 2020 - Feb 2023
-Stag Consulting Ltd	Business Associate	Management Consulting	Oct 2020 - Dec 2023
-Gobarau Microfinance Bank Ltd	Head of IT Department	Finance	Jul 2020 - Mar 2021
-National Health Insurance Scheme (NHIS)	Information Systems Officer	Health Insurance	May 2017 - Apr 2018
+Duration 
+
+Morawa Art and print 
+
+Graphic Design Apprentice 
+
+Graphic Design 
+
+2018 - 2019 
+
+M Square Printers  
+
+Branding Apprentice 
+
+Graphic Design 
+
+2019 - 2020 
+
+Creative Data Services 
+
+and Solutions 
+
+Data Analyst  
+
+Reserch and Development 
+
+2020-2021 
+
+Lyceum Data Dynasty 
+
+Data Collecion Officer and analyst 
+
+Department of ICT 
+
+2021-2024 
 
 
 7. Kaggle Competitions
